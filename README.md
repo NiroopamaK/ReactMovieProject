@@ -24,7 +24,7 @@ Add your API Key
 
 📂 Project Structure
 src/
-  components/   # Reusable React components
-  pages/        # Main application pages
-  services/     # API integration
-  App.js        # Root component
+  components/   - Reusable React components
+  pages/        - Main application pages
+  services/     - API integration
+  App.js        - Root component
