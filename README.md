@@ -28,3 +28,8 @@ src/
   pages/        - Main application pages
   services/     - API integration
   App.js        - Root component
+
+📸 Screenshots of the Project
+
+Homepage - public/screenshots/home.png
+Favorites page - public/screenshots/favorites.png
